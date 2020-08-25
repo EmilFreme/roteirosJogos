@@ -1,0 +1,10 @@
+title:          Aula 05
+ID:             9
+type:           folder
+summaryFull:    Decisões do Game Design, O BeatChart
+                
+status:         3
+compile:        2
+customIcon:     emblem-insync-des-error
+
+

@@ -1,0 +1,5 @@
+Idea:                #ffff00
+Note:                #00ff00
+Capítulo:            #0000ff
+Cena:                #ff0000
+Pesquisa:            #00ffff
