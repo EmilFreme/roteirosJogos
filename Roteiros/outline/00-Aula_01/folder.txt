@@ -1,0 +1,10 @@
+title:          Aula 01
+ID:             1
+type:           folder
+summaryFull:    Introdução ao Curso
+                
+status:         3
+compile:        2
+customIcon:     emblem-checked
+
+

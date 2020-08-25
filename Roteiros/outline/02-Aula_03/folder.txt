@@ -1,0 +1,9 @@
+title:          Aula 03
+ID:             5
+type:           folder
+summaryFull:    Introdução a Arte e Animação 2D
+status:         2
+compile:        2
+customIcon:     emblem-insync-des-error
+
+

@@ -1,0 +1,10 @@
+title:          Aula 04
+ID:             8
+type:           folder
+summaryFull:    Design de Sistemas e Mundos, uma pitada de roteiro
+                
+status:         2
+compile:        2
+customIcon:     emblem-downloads
+
+

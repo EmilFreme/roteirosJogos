@@ -1,0 +1,9 @@
+title:          Aula 06
+ID:             10
+type:           folder
+summaryFull:    Inteligência artificial para jogos
+status:         4
+compile:        2
+customIcon:     emblem-checked
+
+

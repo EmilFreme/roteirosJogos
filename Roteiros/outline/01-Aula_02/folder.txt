@@ -1,0 +1,9 @@
+title:          Aula 02
+ID:             4
+type:           folder
+summaryFull:    Game Design, primeiras preocupações	
+status:         2
+compile:        2
+customIcon:     emblem-checked
+
+
